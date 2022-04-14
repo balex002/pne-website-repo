@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"edu.odu.cs.cs350.namex","l":"Extractor"},{"p":"edu.odu.cs.cs350.namex","l":"Librarian"},{"p":"edu.odu.cs.cs350.namex","l":"Name"},{"p":"edu.odu.cs.cs350.namex","l":"Parser"},{"p":"edu.odu.cs.cs350.namex","l":"Trainer"}]
