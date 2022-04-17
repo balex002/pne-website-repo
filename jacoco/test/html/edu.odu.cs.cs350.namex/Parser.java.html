@@ -28,7 +28,7 @@ import java.util.ArrayList;
         /*Create an empty list for shingled tokens*/
 <span class="fc" id="L29">        List&lt;String&gt; shingledTokens = new ArrayList&lt;String&gt;();</span>
 
-        /*Concatenate the strings from the list of tokens with a space and then add the  new shingles into shingledTokens*/
+        /*Concatenate the strings from the list of tokens with a space and then add the new shingles into shingledTokens*/
 <span class="fc bfc" id="L32" title="All 2 branches covered.">        for (int i = 0; i &lt; tokens.size() - 1; i++){</span>
 <span class="fc" id="L33">            shingledTokens.add(i, (tokens.get(i) + &quot; &quot; + tokens.get(i + 1)));</span>
         }
